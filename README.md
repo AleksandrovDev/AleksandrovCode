@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexandrovCode
-- 👀 I’m interested in Neural Networks
-- 🌱 I’m currently learning Neural Networks
+- 👀 I’m interested in Neural Networks and Data Science
+- 🌱 I’m currently learning Yolov5 using and optimizing.
 - 📫 How to reach me https://www.linkedin.com/in/nikita-alexandrov-189693207/
 
 <!---
